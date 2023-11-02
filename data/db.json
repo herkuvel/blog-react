@@ -1,0 +1,170 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Yazı 1",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint exercitationem, et accusantium in inventore, provident perferendis itaque facere autem fugit quas quasi sapiente! Corporis, cumque vero. Ipsa inventore quae, illum nihil suscipit, nemo veritatis neque possimus aliquid quas maxime excepturi molestias molestiae non accusantium voluptatum sapiente aspernatur consequatur fugit pariatur dolorem quisquam commodi. Error eum nobis ratione hic placeat amet quis accusamus necessitatibus iure earum?",
+      "author": "Furkan Kuvel",
+      "date": "1/11/2021",
+      "postDate": "2021-11-01T15:21:22.727Z"
+    },
+    {
+      "id": 2,
+      "title": "Yazı 2",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore ullam magni sed at a consequuntur debitis culpa nesciunt, itaque fugit eligendi aperiam sint nam pariatur, mollitia fugiat ipsam animi eius perferendis voluptatem! Ut nobis, temporibus laboriosam dignissimos quae incidunt dolores aspernatur delectus deserunt saepe quos consequuntur illo ipsam commodi distinctio error. Voluptas, optio necessitatibus. Fuga consequuntur deleniti veniam odit, itaque iure ea voluptates amet repellat sequi corporis quaerat dolore, non illum.",
+      "author": "Aristoteles",
+      "date": "1/11/2022",
+      "postDate": "2022-11-01T17:17:27.538Z"
+    },
+    {
+      "id": 3,
+      "title": "Yazı 3",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, mollitia eius. Error dolor perspiciatis, voluptatum tempore explicabo, laboriosam, suscipit iure officia quo consectetur reiciendis nam earum eaque. Aperiam, sint? Dolore, cum? Delectus assumenda quibusdam quidem nulla. Officia, deserunt iusto.",
+      "author": "Furkan Kuvel",
+      "date": "1/12/2022",
+      "postDate": "2022-12-01T17:18:43.504Z"
+    },
+    {
+      "id": 4,
+      "title": "Yazı 4",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus officiis quo, odit laboriosam, culpa architecto cum minima, sapiente omnis doloribus suscipit ratione. Qui maxime ipsam debitis aspernatur, praesentium odio eos enim excepturi quisquam omnis obcaecati nemo architecto non nihil error modi esse numquam quasi quod alias facilis, sit minima soluta dolorum. Maiores, blanditiis. Quod, dignissimos voluptatem.",
+      "author": "Furkan Kuvel",
+      "date": "1/01/2023",
+      "postDate": "2023-01-01T17:20:37.582Z"
+    },
+    {
+      "id": 5,
+      "title": "Yazı 5",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur expedita eius est? Modi inventore dolorum quibusdam recusandae blanditiis perferendis exercitationem. Ratione vitae, tenetur vel accusamus quod voluptas quae commodi, neque aspernatur, optio amet consequatur asperiores est suscipit qui ipsam? Inventore, itaque ab id commodi voluptates reiciendis animi eveniet porro molestias? Vel vero, illo doloremque iste fugiat nobis nemo, minima, sed atque magnam earum inventore excepturi fuga molestiae tenetur incidunt? Error iure nostrum illo optio nulla harum, atque molestias, dicta vero non reprehenderit quidem ratione dolores.",
+      "author": "Aristoteles",
+      "date": "1/11/2023",
+      "postDate": "2023-11-01T17:27:23.446Z"
+    },
+    {
+      "id": 6,
+      "title": "Yazı 6",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum enim magnam, necessitatibus veniam atque hic? Earum provident dolores facere sint officiis iste magni reprehenderit ducimus nam recusandae blanditiis vel sapiente, impedit necessitatibus deserunt illo dignissimos! Harum nostrum veniam dignissimos! Quidem, nesciunt.",
+      "author": "Faruk",
+      "date": "1/11/2023",
+      "postDate": "2023-11-01T18:50:08.378Z"
+    },
+    {
+      "id": 7,
+      "title": "Yazı 7",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum enim magnam, necessitatibus veniam atque hic? Earum provident dolores facere sint officiis iste magni reprehenderit ducimus nam recusandae blanditiis vel sapiente, impedit necessitatibus deserunt illo dignissimos! Harum nostrum veniam dignissimos! Quidem, nesciunt.",
+      "author": "Faruk",
+      "date": "1/11/2023",
+      "postDate": "2023-11-01T18:52:01.971Z"
+    },
+    {
+      "id": 8,
+      "title": "Yazı 8",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat repudiandae inventore cum delectus. Laborum, rem illo sequi fuga error assumenda quam maxime repellat quae expedita dolorum voluptas eius ducimus optio? Quos!",
+      "author": "Faruk",
+      "date": "1/02/2023",
+      "postDate": "2023-02-01T19:38:46.630Z"
+    },
+    {
+      "id": 9,
+      "title": "Yazı 9",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, consequuntur odio quisquam harum consequatur vero quia incidunt provident quis debitis at nesciunt maxime minima sint magni culpa deserunt dolores quod, dolorum ex sit? Amet ipsa similique velit tenetur, provident minus illo maxime maiores alias, quis quasi? Repellat tenetur, illo repudiandae sapiente, facere quidem explicabo excepturi at ipsum aliquid blanditiis. Quasi veniam saepe cupiditate? Suscipit odit beatae nemo cupiditate!",
+      "author": "Aristoteles",
+      "date": "1/11/2023",
+      "postDate": "2023-11-01T19:39:58.210Z"
+    },
+    {
+      "id": 10,
+      "title": "Yazı 10",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam eum ad corporis vel aperiam. Vero ea sequi mollitia quae eum, similique soluta omnis iusto commodi accusantium nihil, itaque labore ratione nesciunt harum rem et nam illo in consectetur quaerat error quas excepturi blanditiis! Commodi, quas assumenda voluptatem odit labore distinctio et repellat laborum iusto impedit fugiat quos molestiae! Minima voluptas tempora porro modi eius illum!",
+      "author": "Furkan Kuvel",
+      "date": "1/11/2021",
+      "postDate": "2021-11-01T19:58:14.029Z"
+    },
+    {
+      "id": 11,
+      "title": "Yazı 11",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis rem dolor et quasi voluptate soluta fugit atque animi. Ut earum ex neque reprehenderit. Laudantium in molestias, provident rem minima quaerat, fugiat praesentium voluptate et similique suscipit quis ad animi tenetur autem officiis fugit tempore dolor soluta consequuntur assumenda! Perferendis, maiores doloremque maxime nemo dignissimos, explicabo nam sequi aperiam voluptas sit deleniti.",
+      "author": "Furkan Kuvel",
+      "date": "1/11/2022",
+      "postDate": "2022-11-01T19:58:36.750Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Furkan Kuvel",
+      "password": "1234",
+      "posts": [
+        {
+          "id": 1,
+          "title": "Yazı 1",
+          "postDate": "2021-11-01T15:21:22.727Z"
+        },
+        {
+          "id": 3,
+          "title": "Yazı 3",
+          "postDate": "2022-12-01T17:18:43.504Z"
+        },
+        {
+          "id": 4,
+          "title": "Yazı 4",
+          "postDate": "2023-01-01T17:20:37.582Z"
+        },
+        {
+          "id": 10,
+          "title": "Yazı 10",
+          "postDate": "2021-11-01T19:58:14.029Z"
+        },
+        {
+          "id": 11,
+          "title": "Yazı 11",
+          "postDate": "2022-11-01T19:58:36.750Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Aristoteles",
+      "password": "123456",
+      "posts": [
+        {
+          "id": 2,
+          "title": "Yazı 2",
+          "postDate": "2022-11-01T17:17:27.538Z"
+        },
+        {
+          "id": 5,
+          "title": "Yazı 5",
+          "postDate": "2023-11-01T17:27:23.446Z"
+        },
+        {
+          "id": 9,
+          "title": "Yazı 9",
+          "postDate": "2023-11-01T19:39:58.210Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Faruk",
+      "password": "13579",
+      "posts": [
+        {
+          "id": 6,
+          "title": "Yazı 6",
+          "postDate": "2023-11-01T18:50:08.378Z"
+        },
+        {
+          "id": 7,
+          "title": "Yazı 7",
+          "postDate": "2023-11-01T18:52:01.971Z"
+        },
+        {
+          "id": 8,
+          "title": "Yazı 8",
+          "postDate": "2023-02-01T19:38:46.630Z"
+        }
+      ]
+    }
+  ]
+}
